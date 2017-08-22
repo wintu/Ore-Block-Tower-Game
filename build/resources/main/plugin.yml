@@ -1,0 +1,12 @@
+name: BlockTower
+version: 1.0-SNAPSHOT
+main: gamio.blocks.blocktower.BlockTower
+commands:
+  blocktower:
+    usage:  /<command>
+    permission: blocktower.command
+
+
+permissions:
+  blocktower.command:
+    default: op

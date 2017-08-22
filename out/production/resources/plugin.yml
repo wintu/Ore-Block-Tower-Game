@@ -1,0 +1,6 @@
+name: BlockTower
+version: @version@
+main: gamio.blocks.blocktower.BlockTower
+commands:
+  blocktower:
+    usage:  /<command>
