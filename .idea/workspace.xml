@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f46f511-2dae-4550-8383-67a256101576" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/gamio/blocks/blocktower/BlockTower$CountDownTimer$r$1.class" afterPath="$PROJECT_DIR$/build/classes/main/gamio/blocks/blocktower/BlockTower$CountDownTimer$r$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/gamio/blocks/blocktower/BlockTower.class" afterPath="$PROJECT_DIR$/build/classes/main/gamio/blocks/blocktower/BlockTower.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-classes/main/gamio/blocks/blocktower/BlockTower$CountDownTimer$r$1.class" afterPath="$PROJECT_DIR$/build/kotlin-classes/main/gamio/blocks/blocktower/BlockTower$CountDownTimer$r$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-classes/main/gamio/blocks/blocktower/BlockTower.class" afterPath="$PROJECT_DIR$/build/kotlin-classes/main/gamio/blocks/blocktower/BlockTower.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab_i" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/class-fq-name-to-source.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab_i" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/internal-name-to-source.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab_i" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/proto.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-classes.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-classes.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-classes.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-classes.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-output.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-output.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-output.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/source-to-output.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab_i" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/subtypes.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab_i" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/increCache.BlockTower_main/kotlin/supertypes.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab_i" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.len" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values.s" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values.s" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab_i" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/lookups.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/sync/kotlin-files-in-java-timestamps.bin" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/sync/kotlin-files-in-java-timestamps.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/counters.tab" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches/lookups/counters.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gamio/blocks/blocktower/BlockTower.kt" afterPath="$PROJECT_DIR$/src/main/java/gamio/blocks/blocktower/BlockTower.kt" />
-    </list>
+    <list default="true" id="7f46f511-2dae-4550-8383-67a256101576" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -471,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="347" />
     <option name="y" value="-23" />
     <option name="width" value="1400" />
@@ -692,8 +625,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -702,7 +634,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27469426" sideWeight="0.52708334" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27469426" sideWeight="0.47291666" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27469426" sideWeight="0.47291666" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.49701494" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
